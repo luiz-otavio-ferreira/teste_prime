@@ -30,7 +30,7 @@ java Main
 3. Execute o projeto novamente conforme as instruções acima para que o projeto utilize o novo banco de dados personalizado.
 
 ## Agradecimento
-Agradecemos pela oportunidade e pela paciência durante a avaliação do projeto.
+Agradeço pela oportunidade e pela paciência durante a avaliação do projeto.
 
 Atenciosamente,
 Luo
