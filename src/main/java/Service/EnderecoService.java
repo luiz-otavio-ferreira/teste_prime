@@ -61,9 +61,9 @@ public class EnderecoService {
                 String json = response.toString();
 
                 Gson gson = new Gson();
-                Endereco endereco = gson.fromJson(json, Endereco.class);
 
-                return endereco;
+
+                return gson.fromJson(json, Endereco.class);
             }
         } catch (Exception e) {
             e.printStackTrace();
