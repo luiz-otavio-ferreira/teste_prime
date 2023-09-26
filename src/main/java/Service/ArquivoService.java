@@ -23,10 +23,6 @@ public class ArquivoService {
 
                 String[] info = splitCSVLine(linha);
 
-                if (info.length < 7) {
-                    continue;
-                }
-
                 String nome = info[0].trim();
                 String sobrenome = info[1].trim();
                 String ocupacao = info[2].trim();
